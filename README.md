@@ -1,16 +1,19 @@
-# 3rd Generation Moving Average
+### Michael Abera
 
-3rd generation moving average is an indicator for MT4 and MT5 by EarnForex.com. It is an attempt to improve of the classic exponential moving average indicator.
+I build AI revenue systems that turn manual sales work into measurable, automated pipeline. Background in commercial real estate finance and business funding, now focused on applied AI for sales and operations.
 
-It implements M. Duerschner's method and reduces time lag significantly.
+---
 
-The indicator displays similarly to traditional moving averages - in the main window of the chart.
+#### 🎯 Featured: [Voice AI Qualification Engine](https://github.com/michaelabera/voice-ai-qualification)
 
-It can be used for fast/slow MA crossover analysis like any other type of moving average.
+The open-source decision layer for inbound voice AI agents (Vapi, Retell, Bland). It routes every caller, scores intent in real time, alerts a human the moment a high-value lead is on the line, and guarantees follow-up so no lead dies in voicemail.
 
-![3rd Generation Moving Average - an example chart with fast (red) and slow (blue) moving averages loaded](https://github.com/EarnForex/3rd-Generation-Moving-Average/blob/main/README_Images/3rd-generation-moving-average.png)
+Built with FastAPI and Python · 41 tests · CI · Docker · no-code config builder
 
-A detailed description of the indicator can be found here:
-https://www.earnforex.com/metatrader-indicators/3rd-Generation-Moving-Average/
+![Voice AI Qualification Engine demo](https://raw.githubusercontent.com/michaelabera/voice-ai-qualification/master/docs/assets/demo.svg)
 
-Any contributions to the code are welcome!
+[Explore the project →](https://github.com/michaelabera/voice-ai-qualification)
+
+---
+
+Practical AI systems for real business outcomes. Open to conversations.
